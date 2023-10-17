@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-gold-v1/static/css/main.aab40e58.css",
+    "main.js": "/movie-gold-v1/static/js/main.0c73993f.js",
+    "index.html": "/movie-gold-v1/index.html",
+    "main.aab40e58.css.map": "/movie-gold-v1/static/css/main.aab40e58.css.map",
+    "main.0c73993f.js.map": "/movie-gold-v1/static/js/main.0c73993f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab40e58.css",
+    "static/js/main.0c73993f.js"
+  ]
+}
